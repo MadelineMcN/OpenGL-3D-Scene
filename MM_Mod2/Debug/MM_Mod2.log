@@ -1,0 +1,12 @@
+﻿  Source.cpp
+U:\Users\madeline.mcne_snhu\source\repos\MM_Mod2\MM_Mod2\Source.cpp(15,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+U:\Users\madeline.mcne_snhu\source\repos\MM_Mod2\MM_Mod2\Source.cpp(601,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\Users\madeline.mcne_snhu\source\repos\MM_Mod2\MM_Mod2\Source.cpp(647,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+U:\Users\madeline.mcne_snhu\source\repos\MM_Mod2\MM_Mod2\Source.cpp(936,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Users\madeline.mcne_snhu\source\repos\MM_Mod2\MM_Mod2\Source.cpp(937,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Users\madeline.mcne_snhu\source\repos\MM_Mod2\MM_Mod2\Source.cpp(941,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Users\madeline.mcne_snhu\source\repos\MM_Mod2\MM_Mod2\Source.cpp(942,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Users\madeline.mcne_snhu\source\repos\MM_Mod2\MM_Mod2\Source.cpp(945,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Users\madeline.mcne_snhu\source\repos\MM_Mod2\MM_Mod2\Source.cpp(946,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Users\madeline.mcne_snhu\source\repos\MM_Mod2\MM_Mod2\Source.cpp(999,6): warning C4551: function call missing argument list
+  MM_Mod2.vcxproj -> U:\Users\madeline.mcne_snhu\source\repos\MM_Mod2\Debug\MM_Mod2.exe
